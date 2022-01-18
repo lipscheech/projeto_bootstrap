@@ -1,0 +1,21 @@
+body{
+    background-color: #204325;
+}
+
+.navbar{
+    max-height: 3.6rem;
+}
+
+.container-fluid{
+    max-height: 2.6;
+}
+
+.masthead{
+    height: 70vh;
+    min-width: 300px;
+    background-image: url("../assets/pexels-pixabay-274506.jpg");
+    background-size: cover;
+    background-position: center;
+    inset: 0;
+    /* opacity: .8; */
+}
